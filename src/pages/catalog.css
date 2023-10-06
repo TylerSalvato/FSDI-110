@@ -1,0 +1,13 @@
+.catalog {
+    color: orange;
+
+}
+
+.catalog .btn-filter{
+    display: flex row;
+    align-items: center;
+    margin: 5px;
+
+}
+
+/*too nervous to wreck this to make any real changes*/

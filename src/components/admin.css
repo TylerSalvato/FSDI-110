@@ -1,0 +1,54 @@
+
+
+.admin{
+    padding: 40px 20px;
+    
+
+}
+
+.admin h1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    color: orange;
+}
+
+.admin h4 {
+    font-size: 20px;
+    color: orange;
+    
+}
+
+.admin .forms-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 30px;
+
+
+}
+
+.admin .form {
+    flex: 1;
+    max-width: 400px;
+    border: 1px solid rgb(131, 75, 32);
+    padding: 15px 10px;
+    border-radius: 4px;
+    text-align: left;
+    background-color: orange;
+
+
+}
+
+.admin .form div {
+    margin-bottom: 10px;
+
+}
+
+.admin .form h3 {
+    color: brown;
+    text-align: center;
+}
+
+.admin ul {
+    color: white;
+}

@@ -1,0 +1,38 @@
+# tool to create virtual environms
+python3 -m pip install virtualenv
+# create virtual environment
+python3 -m venv venv 
+
+
+
+# activate venv
+source venv/bin/activate
+
+
+# deactivate
+deactivate
+
+
+# clear the terminal
+clear
+
+
+# install flask
+python3 -m pip install flask
+
+
+# create project
+#type the code
+
+
+
+
+# run the server
+python3 server.py
+
+Flask pymongo
+To read and write data to a mongo db
+
+
+python3 -m pip install "pymongo[srv]" certifi
+
